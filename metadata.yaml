@@ -1,5 +1,5 @@
 _repo: Reverie-de-Nouvel-An_63144
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Sauvage, Marcel
@@ -23,6 +23,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Pere_Cr%C3%A9ixams
     - https://en.wikipedia.org/wiki/Pere_Cr%C3%A9ixams
+covers:
+- cover_type: archival
+  image_path: 63144-h/images/reveries_cover.jpg
 creator:
   author:
     agent_name: Colette
@@ -40,6 +43,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Colette
     - https://en.wikipedia.org/wiki/Colette
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63144#Reverie-de-Nouvel-An
 gutenberg_issued: '2020-09-07'
 gutenberg_type: Text
 identifiers:
