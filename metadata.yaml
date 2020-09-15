@@ -1,0 +1,60 @@
+_repo: Reverie-de-Nouvel-An_63144
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Sauvage, Marcel
+    birthdate: 1895
+    deathdate: 1988
+    gutenberg_agent_id: '52306'
+    url: http://www.gutenberg.org/2009/agents/52306
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Marcel_Sauvage
+    - https://en.wikipedia.org/wiki/Marcel_Sauvage
+  illustrator:
+    agent_name: Créixams, Pere
+    aliases:
+    - Créixams i Picó, Pere
+    - Créixams, Pedro
+    - Creixams i Pico, Pere
+    birthdate: 1893
+    deathdate: 1965
+    gutenberg_agent_id: '52305'
+    url: http://www.gutenberg.org/2009/agents/52305
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Pere_Cr%C3%A9ixams
+    - https://en.wikipedia.org/wiki/Pere_Cr%C3%A9ixams
+creator:
+  author:
+    agent_name: Colette
+    aliases:
+    - Jouvenel, Gabrielle Claudine Colette de
+    - Gauthier-Villars, Henry, Mme
+    - Colette, Sidonie Gabrielle
+    - Colette, Sidonie-Gabrielle
+    - Willy, Colette
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '2065'
+    url: http://www.gutenberg.org/2009/agents/2065
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Colette
+    - https://en.wikipedia.org/wiki/Colette
+description: ''
+gutenberg_issued: '2020-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63144'
+  lccn: '26015692'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Les Contemporains, oeuvres et portraits du XXe siècle. [8]
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- 20th century'
+- GITenberg
+tableOfContents: Colette -- Rêverie de nouvel an -- Malade -- Dimanche -- Répit --
+  J'ai chaud -- Convalescence.
+title: Rêverie de Nouvel An
+url: http://www.gutenberg.org/ebooks/63144
